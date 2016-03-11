@@ -244,7 +244,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {30373376,45342395},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -320,7 +320,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+دستورات همیار گروه :
  
 1-banhammer list ^
  
