@@ -5,7 +5,7 @@ function run(msg, matches)
 
 🔧توسعه دهنده ربات:@mhmafi~~@Ho3yyyn 
 
-🎁کانال ربات: @hamyargroup
+🎁کانال ربات: @hamyargroupp
 
 📰سایت رسمی ربات:https://hg.hamyartec.ir
 
