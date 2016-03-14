@@ -216,8 +216,7 @@ function create_config( )
     "english-lock",
     "frchat",
     "giphy",
-    "lock_chat"
-    "anti_chat",
+    "lock_chat",
     "banhammer",
     "boobs",
     "bot_manager",
