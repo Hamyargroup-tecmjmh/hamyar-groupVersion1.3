@@ -381,9 +381,6 @@ Hamyargroup commands list :
 !rules
 قوانین گروه
 
-!settings
-دیدن تنظیمات فعلی گروه
-
 !help
 لیست دستورات ربات
 
