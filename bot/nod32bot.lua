@@ -212,6 +212,8 @@ function create_config( )
     "9gag",
     "9gag",
     "9gag",
+    "9gag",
+    "9gag",
     "anti_ads",
     "anti_bot",
     "auto_leave",
